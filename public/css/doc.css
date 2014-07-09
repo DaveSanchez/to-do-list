@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('../fonts/proximanova-light-webfont.eot');
+    src: url('../fonts/proximanova-light-webfont.eot?#iefix') format('embedded-opentype'),
+    font-weight: 300;
+    font-style: normal;
+}
+
+*{
+	font-family: "Proxima Nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+textarea {
+	resize:none;
+}
+
+.link-paginate, .link-paginate:hover {
+	text-decoration: none;
+	color: #FFFFFF;
+}
